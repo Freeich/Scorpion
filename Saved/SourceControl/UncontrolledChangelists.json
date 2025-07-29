@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/SkeletalMesh/ScorpionBodyBlack.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/SkeletalMesh/ScorpionBodyWhite.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/SkeletalMesh/ScorpionSkeletalMesh_Skeleton.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/SkeletalMesh/TutorialScorpionMesh.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/Animation/ABP_Scorpion.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/Animation/CR_Scorpion.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/CharacterBlueprint/EmptyCharacterBP.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/CourseStartLevel.umap",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/CharacterBlueprint/BP_Scorpion.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/Map/CourseStartLevel.umap",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/Map/ScorpLevelGrid.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/ScorpLevelGrid.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/LandscapeTestLevel.umap",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/SkeletalMesh/TutorialScorpionMesh.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/SkeletalMesh/ScorpionSkeletalMesh_Skeleton.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/SkeletalMesh/ScorpionBodyWhite.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/SkeletalMesh/ScorpionBodyBlack.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/Animation/BP_Scorpion.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/Character/BP_Scorpion.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/SkeletalMesh/CR_Scorpion.uasset",
+				"D:/UE5-NEW/AutoAdaptedScorpion/AAScorpion/Content/TutorialContent/CharacterBlueprint/EmptyCharacterBP.uasset"
+			]
+		}
+	]
+}
