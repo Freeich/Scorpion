@@ -1,4 +1,5 @@
-自适应速度蝎子
-<a href="https://www.bilibili.com/video/BV1oszaYWEKE" target="_blank" rel="noopener noreferrer">
-  <img src="HighresScreenshot00000.png" alt="Demo" width="720">
-</a>
+###自适应速度蝎子###
+## 🎬 演示视频
+点击下图查看完整演示视频（B站）👇  
+
+[![Demo](HighresScreenshot00000.png)](https://www.bilibili.com/video/BV1sthHzaEXM)
